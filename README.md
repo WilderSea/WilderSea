@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧑‍🎓 Education
-<strong>42Málaga Fundación Telefónica</strong> 
-and before:
+## 🧑‍🎓 Education <br>
+<strong>42Málaga Fundación Telefónica</strong>  <br>
+and before: <br>
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -91,4 +91,7 @@ and before:
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false" />
+</a>
 [![](https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
