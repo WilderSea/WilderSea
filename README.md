@@ -94,4 +94,3 @@ and before: <br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false" />
 </a>
-[![](https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
