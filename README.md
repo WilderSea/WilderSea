@@ -90,3 +90,5 @@ and before:
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
