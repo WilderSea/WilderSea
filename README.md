@@ -82,8 +82,9 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🧑‍🎓 Education <br>
-Currently studying at <strong>42Málaga Fundación Telefónica</strong>  <br>
-and before: <br>
+Currently studying at <strong>42Málaga Fundación Telefónica</strong> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" width="20%"><br>
+and before: <br><br>
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
