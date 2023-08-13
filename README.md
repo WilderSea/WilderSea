@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working as a freelance Web Designer 🖌️ and IT support 🤖
-- 💪 I’m learning C Programming language for Software Development in "42 Málaga Fundación Telefónica" 🧮
+- 💪 I’m learning C Programming language for Software Development in < 42 Málaga Fundación Telefónica > 🧮
 - 👯 I’m looking forward to collaborate on Environmental projects 🌍 🌲 and contribute to an ecological transition.<br>#sustainability #biodiversity #climate change
 
 ## 💻 Tech Knowledge:<br>
