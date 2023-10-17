@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
 
-- 💪 I’m learning C Programming language for Software Development in < 42 Málaga Fundación Telefónica > 🧮
-- 🔭 I have experience working as a freelance Web Designer 🖌️ and IT support 🤖
-- 👯 I’m looking forward to collaborate on Environmental projects 🌍 🌲 and contribute to an ecological transition.<br>
+- 💪 I’m learning C Programming language for Software Development in < 42 Málaga Fundación Telefónica > 📚💻
+- 🎨 I have experience working as a freelance Web Designer 🖌️ and IT support 🤖
+- 🌍 I’m looking forward to collaborate on Environmental projects 🌲🌳 and contribute to an ecological transition.<br>
 
 ## 💻 Tech Knowledge:<br>
 🖌️ Web Development <br>
