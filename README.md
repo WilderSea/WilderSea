@@ -17,10 +17,34 @@ Here are some ideas to get you started:
 <p>
   <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
+<ul>
+  <li>
+     💪 I’m currently learning Programming in C and C++ for Software Development 📚💻 and designing websites as a freelancer 🧑‍🎨. 
+  </li>
+  <li>
+     🎨 I have experience working as a Web Designer 🖌️ , IT Support 🤖 and implementing web apps in Linux VPS.⚡
+  </li>
+  <li>
+     🌍 I’m looking forward to collaborate on Environmental projects 🌲🌳 and contribute to an ecological transition.<br>
+  </li>
+</ul>
+<div align="center">
+  <div display="flex">
+    <img alt="Español" src="https://unpkg.com/language-icons/icons/es.svg" width="35px">
+    <img alt="English" src="https://unpkg.com/language-icons/icons/en.svg" width="35px">
+  </div>
+</div>
 
-- 💪 I’m learning C Programming language for Software Development in < 42 Málaga Fundación Telefónica > 📚💻
-- 🎨 I have experience working as a freelance Web Designer 🖌️ and IT support 🤖
-- 🌍 I’m looking forward to collaborate on Environmental projects 🌲🌳 and contribute to an ecological transition.<br>
+
+<!--<p>
+- 💪 Actualmente estudiando programación y otras herramientas (C, C++, Docker...) y realizando proyectos web de forma autónoma. 📚💻
+- 🎨 Tengo experiencia en el diseño y desarrollo de sitios webs 🖌️, soporte técnico informático 🤖 y en la implementación de aplicaciones en servidores virtuales privados.⚡<br>
+- 🌍 Me interesan, en particular, proyectos relacionados con la transición ecológica 🌲🌳, el desarrollo sostenible y la preservación del medio ambiente. 
+</p>-->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false" />
+</a>
 
 ## 💻 Tech Knowledge:<br>
 🖌️ Web Development <br>
@@ -81,17 +105,5 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧑‍🎓 Education <br>
-Currently studying at <strong>42Málaga Fundación Telefónica</strong> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" width="20%"><br>
-and before: <br><br>
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=wildersea&label=Profile%20Views&icon=0&pretty=false" />
-</a>
+
