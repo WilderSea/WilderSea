@@ -50,61 +50,41 @@ Here are some ideas to get you started:
 
 # Current Technical Skills 👩‍💻
 
-|  Web Design & Development  |  🎨 🖌️  | Frameworks, Platforms and Libraries | 🖥️ 📚 |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|     `html`            |    [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)   | `bootstrap`          |    [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) |
-|     `css`          |    [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | `sass` | [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)   |
-|    `js`          |    [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | `jquery`          |    [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) |
-|     `mysql`       |    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | `wordpress`       |    [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) |
-|     `mariadb, apache, ...`       | ...   | `drupal, prestashop, owncloud, ...`  | ...
+|  Web Design & Development  |  🎨 🖌️  | Frameworks, Platforms and Libraries | 🖥️ 📚 | Design Tools   |  🧑‍🎨 🎨 |
+| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+|     `html`            |    [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)   | `bootstrap`          |    [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) | `gimp` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
+|     `css`          |    [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | `sass` | [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)   | `inkscape` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
+|    `js`          |    [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | `jquery`          |    [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) | `canva` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
+|     `mysql, mariadb`       |    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | `wordpress, drupal` |    [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) | `figma` | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
+|     `apache`       | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev)   | `prestashop, shopify`  | ...
 
 ---
 
-|  Programming Languages                  |                    🧑‍💻 🤖                                 | Frameworks, Platforms and Libraries | 🖥️ 📚 |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|     `c`            |    [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)   |
-|     `cpp`          |    [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) |
-|    `bash`          |    [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) | `powershell` | [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev) |
+|  Programming Languages |                    🧑‍💻 🤖                          | Frameworks, Platforms and Libraries                          |        🖥️ 📚                                       | Version Control  |         🔄  | 
+| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :----------------: | :---------------------------------------------------: | 
+|     `c`            |    [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)   | `...` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `git` |   [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)   | 
+|     `cpp`          |    [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | `owncloud` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `github` |  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | 
+|    `bash`          |    [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) | `powershell` | [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev) | `bitbucket` |   [![My Skills](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev) | 
 |     `python`       |    [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | `django` | [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) |
 
 ---
 
-|  Version Control                  |          ✍️ 💻      |    Design Tools   |  🧑‍🎨 🎨 |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|     `git`            |    [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)   | `gimp` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-|     `github`          |    [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | `inkscape` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-|     `bitbucket`          |    [![My Skills](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev) | `figma, canva` | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
+|  IDEs, source code editors    |          ✍️ ▶️                            |       Playgrounds                                              |  🤾‍♂️ 🤾‍♀️                                      |       Operating Systems                                      |          ✍️ 💻        |   Testing and other useful   |  🤖 🐍 |
+| :----------------: | :---------------------------------: | :--------------------------------------: | :----------------------------: | :------------------------------------: | :---------------------------------: | :--------------------------------: | :------------------------------------: |
+| `vim` | [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev) | `codepen` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `linux` | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) | `chatgpt` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
+| `vscode` | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) | `jsbin` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `ubuntu`|  [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `stackoverflow` | [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) |
+|  `atom` |  [![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev) | `pythontutor` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `debian` |  [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `selenium` | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) |
 
 ---
-
-|  IDEs, source code editors                  |          ✍️ 💻      |    Playgrounds   |  🧑‍🎨 🎨 |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|     `vim`            |    [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)   | `codepen` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-|     `vscode`          |    [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) | `jsbin` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-|     `atom`          |    [![My Skills](https://skillicons.dev/icons?i=atom)](https://skillicons.dev) | `pythontutor` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-
----
-
-|  Operating Systems                  |          ✍️ 💻      |   Testing and other useful   |  🧑‍🎨 🎨 |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|     `linux`            |    [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)   | `chatgpt` | [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) |
-|     `ubuntu`          |    [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `stackoverflow` | [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) |
-|     `debian`          |    [![My Skills](https://skillicons.dev/icons?i=xxx)](https://skillicons.dev) | `selenium` | [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev) |
-
----
-
 
 # Interested in learning...:
 
 
-|      Icon ID       |                         Icon                          | Icon                          | Icon                          |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-| `angular` |    [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)   | `react`  | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)    |
-| `docker`  |    [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)    | `nginx`  | [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)    |    
-| `express` |    [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)    | `nodejs` |  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)    |
-| `flutter` | [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)  |  `sequelize`  |  [![My Skills](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev) |
-| `postman` |  [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  | `blender` | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)    |
-| `vue` |  [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | `mongodb` | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  |  
+|      ...       |                         ...                          | ...                          | ...                          | ...                          | ...                          |
+| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+| `angular` |  [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) | `react` | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | `express` | [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) | `nodejs` |  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  |
+| `docker`  |    [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)    | `nginx`  | [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev) | `postman` |  [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  | `blender` | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)    |   
+| `flutter` | [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)  |  `sequelize`  |  [![My Skills](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev) | `vue` |  [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | `mongodb` | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  |  
 | `postgres` |    [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)    |  
 
 ---
